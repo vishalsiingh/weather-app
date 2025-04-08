@@ -108,9 +108,19 @@ Explore the different states and modes of the Weather App interface below.
 
 
 
-## 🚀 Getting Started
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/weather-app.git
-cd weather-app
+## 🙌 Acknowledgements
+
+- [OpenWeatherMap](https://openweathermap.org/api) – for providing the weather data API.
+- [Vercel](https://vercel.com/) – for fast and seamless deployment.
+- UI/UX inspirations from various modern weather apps and open-source projects.
+
+---
+
+## 📫 Contact
+
+**Vishal Singh Kashyap**  
+📧 Email: singhvishalk165@gmail.com 
+🌐 Portfolio:   
+🐙 GitHub: https://github.com/vishalsiingh
+📄 LinkedIn: https://www.linkedin.com/in/vishal--kashyap/
