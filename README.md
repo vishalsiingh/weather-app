@@ -5,8 +5,6 @@ A sleek and simple weather forecast application built using **React.js**. It fet
 ## 🔍 Live Demo
 (https://weather-app-one-mu-35.vercel.app/)
 
-> Replace with your actual GitHub Pages link after deployment.
-
 ---
 
 ## 📌 Features
