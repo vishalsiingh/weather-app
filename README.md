@@ -3,7 +3,7 @@
 A sleek and simple weather forecast application built using **React.js**. It fetches real-time weather data and a 5-day forecast from the **OpenWeatherMap API**. Users can search any city, view previous searches, and toggle between light and dark themes.
 
 ## 🔍 Live Demo
-[Click here to view the deployed app](https://your-github-username.github.io/your-repo-name)
+(https://weather-app-one-mu-35.vercel.app/)
 
 > Replace with your actual GitHub Pages link after deployment.
 
